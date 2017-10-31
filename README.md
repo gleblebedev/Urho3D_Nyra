@@ -3,6 +3,8 @@ Nyra model by Paul Tosca adapted for Urho3D engine.
 
 Original model could be found at http://www.paultosca.com/newSite/nyra.html
 
+![Screenshot](nyra.png)
+
 Here is what Paul says:
 
 20k tris low poly 
