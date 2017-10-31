@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<material>
+	<technique name="Techniques/DiffNormalSpecAlpha.xml" quality="0" loddistance="0" />
+	<texture unit="diffuse" name="Textures/body_d.dds" />
+	<texture unit="normal" name="Textures/body_n.dds" />
+	<texture unit="specular" name="Textures/body_s.dds" />
+	<texture unit="environment" name="Textures/head_tr.dds" />
+	<parameter name="UOffset" value="1 0 0 0" />
+	<parameter name="VOffset" value="0 1 0 0" />
+	<parameter name="MatDiffColor" value="1 1 1 1" />
+	<parameter name="MatEmissiveColor" value="0 0 0 1" />
+	<parameter name="MatEnvMapColor" value="1 1 1" />
+	<parameter name="MatSpecColor" value="1 1 1 22.9935" />
+	<parameter name="Roughness" value="0.5" />
+	<parameter name="Metallic" value="0" />
+	<cull value="ccw" />
+	<shadowcull value="ccw" />
+	<fill value="solid" />
+	<depthbias constant="0" slopescaled="0" />
+	<renderorder value="128" />
+</material>
