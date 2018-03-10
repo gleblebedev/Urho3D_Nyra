@@ -4,7 +4,7 @@
 	<texture unit="diffuse" name="Textures/body_d.dds" />
 	<texture unit="normal" name="Textures/body_n.dds" />
 	<texture unit="specular" name="Textures/body_properties.dds" />
-	<texture unit="environment" name="Textures/Skybox.xml" />
+	<texture unit="environment" name="Textures/Skybox2.xml" />
 	<parameter name="UOffset" value="1 0 0 0" />
 	<parameter name="VOffset" value="0 1 0 0" />
 	<parameter name="MatDiffColor" value="1 1 1 1" />
